@@ -1,0 +1,9 @@
+.gellery {
+  width: 50%;
+  border: 5px solid red;
+}
+img {
+  width: 100%;
+  border: 5px solid blue;
+  padding: 5px;
+}

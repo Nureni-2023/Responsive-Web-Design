@@ -1,0 +1,53 @@
+body {
+  margin: 0 auto;
+  background-color: rgb(199, 195, 195);
+  width: 13q00px;
+}
+header {
+  text-align: center;
+}
+img {
+  width: 1200px;
+  height: 800px;
+  padding: 0 120px;
+}
+nav {
+  background-color: white;
+}
+ul {
+  margin: 0 250px;
+}
+h3 {
+  text-align: center;
+  margin-top: 10px;
+}
+.life {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 30%;
+}
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.here {
+  width: 59%;
+  gap: 30px;
+  line-height: 29px;
+}
+.india {
+  width: 70%;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.dr {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-bottom: 10px;
+}
